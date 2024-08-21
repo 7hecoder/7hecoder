@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @7hecoder
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Full stack development.
+- 💞️ I’m looking to collaborate on open source 
+- 📫 Reach out to me at Twitter or LinkedIn @7hecoder
+- 😄 Pronouns: The Coder
