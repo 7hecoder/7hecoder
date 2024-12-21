@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Full-stack Development**
 
-- 📝 I regularly write articles on [medium.com/7hecoder](medium.com/7hecoder)
-
 - 💬 Ask me about **MERN, Python**
 
 - 📫 How to reach me **7hecoder@proton.me**
@@ -19,7 +17,7 @@
 <a href="https://twitter.com/@7hecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@7hecoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@7hecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@7hecoder" height="30" width="40" /></a>
 <a href="https://hashnode.com/@7hecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@7hecoder" height="30" width="40" /></a>
-<a href="https://medium.com/7hecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="7hecoder" height="30" width="40" /></a>
+<a href="https://medium.com/@7hecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="7hecoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
