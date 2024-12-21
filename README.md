@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Aamir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM">
+<img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM">
 <p align="left"> <a href="https://twitter.com/@7hecoder" target="blank"><img src="https://img.shields.io/twitter/follow/7hecoder?logo=twitter&style=for-the-badge" alt="@7hecoder" /></a> </p>
 
 - 🌱 I’m currently learning **Full-stack Development**
