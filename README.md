@@ -17,14 +17,14 @@ I am a **full-stack developer** focusing on the **MERN stack** (MongoDB, Express
 - 🔭 **Currently working on**: Twitter UI Clone
 - 🌱 **Learning**: Agentic-AI
 - 💬 **Ask me about**: MERN, Python
-- 📫 **Reach me at**: [123@proton.me](mailto:123@proton.me)
+- 📫 **Reach me at**: [7hecoder@proton.me](mailto:7hecoder@proton.me)
 
 ---
 
 ### 🔗 Connect with Me
 <p align="center">
     <a href="https://twitter.com/@7hecoder" target="blank"><img src="https://img.shields.io/twitter/follow/7hecoder?logo=twitter&style=for-the-badge" alt="@7hecoder" /></a>
-    <a href="https://linkedin.com/in/@7hecoder" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/7hecoder" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
     <a href="https://hashnode.com/@7hecoder" target="blank"><img src="https://img.shields.io/badge/Hashnode-green?logo=hashnode&style=for-the-badge" alt="Hashnode" /></a>
     <a href="https://medium.com/@7hecoder" target="blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" alt="Medium" /></a>
 </p>
